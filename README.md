@@ -1,4 +1,4 @@
-# Bazel_with_GTest
-C++ project skeleton with Bazel &amp; GTest
+# Bazel_with_Data
+A basic Bazel C++ project with a *data* repository.
 
-This is the companion repo to this [stackoverflow question](https://stackoverflow.com/questions/45814669/c-project-with-bazel-and-gtest/45814670#45814670).
+This is the companion repo to this [stackoverflow question](https://stackoverflow.com/questions/46100906/c-bazel-project-with-a-data-repository/46100907#46100907).
